@@ -1,4 +1,4 @@
-# Federated Reinforcement Learning
+# Federated Reinforcement Learning [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A publication catalog for research on Federated Reinforcement Learning (FRL).
 
